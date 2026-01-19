@@ -1,0 +1,18 @@
+.part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.holder{
+    width: 500px;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+input{
+    text-align: center;
+}
+.key,.code{
+    font-size: 30px;
+}
